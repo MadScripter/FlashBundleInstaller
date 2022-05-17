@@ -12,6 +12,7 @@ This script will do the following:
 
 *   This script will only work on MacOS.
 *   The script will ask for your password as some actions require elevated privileges.
+*   It is not recommended to use the browser for anything other than Flash content as you will no longer get security updates. 
 
 ---
 
@@ -46,3 +47,7 @@ chmod +x installer.sh
 ---
 
 Tested on MacOS Big Sur 11.2.3
+
+---
+
+Extra: Tutoriel en Français disponible ici: https://gist.github.com/MadScripter/058f4dd27e8c4735602bd05ddfa8115c
